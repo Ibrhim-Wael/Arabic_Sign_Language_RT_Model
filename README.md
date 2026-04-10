@@ -8,7 +8,7 @@ A real-time Arabic Sign Language (ArSL) letter recognition system built from scr
 
 > Real-time detection running in PyCharm — the model identifies hand gestures and overlays the predicted letter with confidence score.
 
-![Demo Screenshot](assets/demo.png)
+![Demo Screenshot](assests/demo.png)
 
 ---
 
