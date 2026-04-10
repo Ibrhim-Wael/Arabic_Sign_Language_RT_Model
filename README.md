@@ -65,7 +65,7 @@ Built from scratch using TensorFlow / Keras — no pretrained backbone.
 The model was trained in **two stages**:
 
 ### Stage 1 — Kaggle Dataset
-Trained from scratch on the [Arabic Sign Language Dataset 2022](https://www.kaggle.com/datasets/your-link-here) (Kaggle).
+Trained from scratch on the [Arabic Sign Language Dataset 2022]([https://www.kaggle.com/datasets/your-link-here](https://www.kaggle.com/datasets/ammarsayedtaha/arabic-sign-language-dataset-2022)) (Kaggle).
 
 - Images cropped from YOLO-format bounding boxes
 - Resized to 64×64 and normalised to [0, 1]
@@ -115,8 +115,8 @@ arabic-sign-language/
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/arabic-sign-language.git
-cd arabic-sign-language
+git clone https://github.com/Ibrhim-Wael/Arabic_Sign_Language_RT_Model.git
+cd Arabic_Sign_Language_RT_Model
 pip install -r requirements.txt
 ```
 
