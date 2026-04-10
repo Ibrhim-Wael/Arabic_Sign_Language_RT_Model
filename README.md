@@ -148,7 +148,7 @@ See [`requirements.txt`](requirements.txt)
 
 ## Datasets
 
-- **Dataset 1:** [Arabic Sign Language Dataset 2022 — Kaggle](https://www.kaggle.com/datasets/your-link-here)
+- **Dataset 1:** [Arabic Sign Language Dataset 2022 — Kaggle](https://www.kaggle.com/datasets/ammarsayedtaha/arabic-sign-language-dataset-2022)
 - **Dataset 2:** Secondary ArSL dataset (unaugmented, 416px images) — link unavailable
 
 ---
